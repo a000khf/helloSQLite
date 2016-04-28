@@ -6,6 +6,10 @@
 //  Copyright © 2016年 zhu. All rights reserved.
 //
 
+/*---------------------------------------------------------------
+= Blog about this article:http://www.jianshu.com/p/d02aae7bb66a =
+----------------------------------------------------------------*/
+
 #import "ViewController.h"
 #import <sqlite3.h>
 @interface ViewController ()
